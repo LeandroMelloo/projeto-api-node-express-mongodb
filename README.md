@@ -1,4 +1,4 @@
-# API-NodeExpressMongo
+# api-node-express-mongodb
 
 [![Build Status](https://travis-ci.org/ThiagoLuizNunes/API-NodeExpressMongo.svg?branch=master)](https://travis-ci.org/ThiagoLuizNunes/API-NodeExpressMongo)
 [![Code Climate](https://codeclimate.com/github/ThiagoLuizNunes/API-NodeExpressMongo/badges/gpa.svg)](https://codeclimate.com/github/ThiagoLuizNunes/API-NodeExpressMongo)
